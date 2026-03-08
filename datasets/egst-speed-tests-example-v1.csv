@@ -1,0 +1,15 @@
+vpn,location,test_state,download_mbps,upload_mbps,ping_ms,percent_of_baseline
+NordVPN,Australia,Baseline,908,95,2,
+NordVPN,Australia,VPN,895,91,3,98
+NordVPN,USA-SF,Baseline,801,69,195,
+NordVPN,USA-SF,VPN,559,52,244,70
+NordVPN,UK-London,Baseline,475,64,206,
+NordVPN,UK-London,VPN,341,61,270,79
+NordVPN,Canada-Vancouver,Baseline,278,58,276,
+NordVPN,Canada-Vancouver,VPN,452,58,283,162
+NordVPN,Germany-Berlin,Baseline,544,81,213,
+NordVPN,Germany-Berlin,VPN,475,77,231,87
+NordVPN,Switzerland-Zurich,Baseline,143,64,206,
+NordVPN,Switzerland-Zurich,VPN,270,41,265,188
+NordVPN,Japan-Tokyo,Baseline,429,76,163,
+NordVPN,Japan-Tokyo,VPN,621,83,115,144
